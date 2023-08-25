@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shubhaglpltd/static/css/main.f613a7f0.css",
+    "main.js": "/shubhaglpltd/static/js/main.cd10530c.js",
+    "index.html": "/shubhaglpltd/index.html",
+    "main.f613a7f0.css.map": "/shubhaglpltd/static/css/main.f613a7f0.css.map",
+    "main.cd10530c.js.map": "/shubhaglpltd/static/js/main.cd10530c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f613a7f0.css",
+    "static/js/main.cd10530c.js"
+  ]
+}
