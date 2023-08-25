@@ -1,0 +1,22 @@
+/* Add this CSS to your existing styles or a separate CSS file */
+.footer-column {
+    margin: 20px; /* Add margin for spacing */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.footer-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; /* Adds space between list items */
+    padding: 0;
+}
+
+.footer-list li {
+    margin: 10px 0; /* Adjust spacing between list items */
+    text-decoration: underline; /* Underline each list item */
+}

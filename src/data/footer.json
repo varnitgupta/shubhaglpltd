@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "heading": "Products",
+            "titles": [
+                "Why Mailchimp?",
+                "Product Updates",
+                "Email Marketing",
+                "Websites",
+                "Transactional Email",
+                "How We Compare",
+                "GDPR Compliance",
+                "Security",
+                "Status",
+                "Mobile App"
+            ]
+        },
+        {
+            "heading": "Resources",
+            "titles": [
+                "Marketing Library",
+                "Free Marketing Tools",
+                "Marketing Glossary",
+                "Integrations Directory"
+            ]
+        },
+        {
+            "heading": "Community",
+            "titles": [
+                "Agencies & Freelancers",
+                "Developers",
+                "Events"
+            ]
+        },
+        {
+            "heading": "Company",
+            "titles": [
+                "Our Story",
+                "Newsroom",
+                "Give Where You Live",
+                "Careers",
+                "Accessibility"
+            ]
+        },
+        {
+            "heading": "Help",
+            "titles": [
+                "Contact Us",
+                "Hire an Expert",
+                "Help Center",
+                "Talk to Sales"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+      {
+        "heading": "Create must click landing pages",
+        "text": "With Mailchimp's landing page builder, it takes just a few minutes to design beautiful landing pages that make visitors want to join your audience or buy your stuff.",
+        "imageUrl": "https://eep.io/images/yzco4xsimv0y/433SRjV7TLAaSJqKyzNoAB/dc0812aa5b7a3656232d01f7b5228ecd/LandingPages-Desktop-01-Hero.png?w=1520&fm=avif&q=60",
+        "buttonText": "Start Building"
+      },
+      {
+        "heading": "Your landing page starts with the right domain. Claim yours today",
+        "text": "Start with a custom domain and get your business online now. Bring your free website and landing pages under one domain to keep your brand in harmony.",
+        "imageUrl": "https://eep.io/images/yzco4xsimv0y/6ZMJR04DkXXt3gupKfe6cU/42fe7d33bebde633e046b44594f447fa/LandingPages-Desktop-02-Domain.png?w=842&fm=avif&q=60",
+        "buttonText": "Find Your Domain",
+        "reverse": true
+      },
+      {
+        "heading": "Landing page templates that work hard for you",
+        "imageUrl": "https://eep.io/images/yzco4xsimv0y/69EjYtXpDz06hruLouXBJd/98e570d8396e1e6573c66a414627203f/LandingPages-Desktop-03-B-HighlightProd.png?w=992&fm=avif&q=60",
+        "dropdownData": [
+          {
+            "title": "Create a buzz for your new business",
+            "text": "Test out your products, messaging, and ideas before you launch, so you can find your future customers, optimize your conversion rates, and get people excited about your brand."
+          },
+          {
+            "title": "Highlight products",
+            "text": "Our landing page builder pulls product imagery directly from your connected ecommerce store so you can feature a top seller or promote your latest collection."
+          },
+          {
+            "title": "Offer a free download",
+            "text": "Grow your Mailchimp audience by offering a special download to new contacts."
+          },
+          {
+            "title": "Hold a contest",
+            "text": "Run your own giveaway to collect email addresses and turn potential customers into loyal ones."
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,30 @@
+.text-dropdown {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .text-dropdown-header {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .dropdown_heading {
+    font-size: 1.2rem;
+    margin: 0;
+    flex: 1;
+  }
+  
+  .arrow {
+    transition: transform 0.3s ease;
+  }
+  
+  .arrow.expanded {
+    transform: rotate(180deg);
+  }
+  
+  .text {
+    margin-top: 10px;
+    font-size: 1rem;
+  }
+  

@@ -1,0 +1,40 @@
+/* ParaImage.css */
+
+.para-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
+  }
+  .paraImage_heading{
+    font-family: 'Ruwudu', serif;
+    font-size: 2.5rem;
+  }
+  .paraImage_text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+  }
+  .reverse {
+    flex-direction: row-reverse;
+  }
+  
+  .para-text {
+    flex: 1;
+  }
+  
+  .image {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .section_image {
+    margin: 50px;
+    max-width: 500px;
+    height: auto;
+  }
